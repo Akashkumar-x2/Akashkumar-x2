@@ -6,14 +6,14 @@
 ---
 
 ## 👨‍💻 About Me  
-I’m a **Cybersecurity Enthusiast and Ethical Hacker** with a solid foundation in **Vulnerability Assessment**, **Penetration Testing**, and **Network Security**.  
-I enjoy identifying security flaws, testing exploit scenarios, and helping organizations strengthen their defenses.  
+I’m a **Cybersecurity Enthusiast** with a solid foundation in **Vulnerability Assessment**, **Penetration Testing**, and **Network Security**.  
+I enjoy identifying security flaws and testing exploit scenarios.  
 Currently pursuing **Certified Ethical Hacker (CEH v12)** certification from **EC-Council**.
 
 ---
 
 ## 🎯 Objective  
-To leverage my hands-on experience in **ethical hacking, penetration testing, and packet analysis** to contribute to an organization’s cybersecurity goals.  
+To leverage my hands-on experience in **ethical hacking and penetration testing** to contribute to an organization’s cybersecurity goals.  
 I aspire to join a **penetration testing** or **offensive security** team, where I can apply my skills to real-world engagements and continuously learn from industry experts.
 
 ---
