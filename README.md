@@ -60,7 +60,7 @@ I aspire to join a **penetration testing** or **offensive security** team, where
 
 ## 🎓 Certifications  
 <div>
-<img src="https://img.shields.io/badge/-CEH_v12_(Ongoing)-A10000?&style=for-the-badge&logo=EC-Council&logoColor=white" />
+<img src="https://img.shields.io/badge/-CEH_v12_(Appearing)-A10000?&style=for-the-badge&logo=EC-Council&logoColor=white" />
 <img src="https://img.shields.io/badge/-Ethical_Hacking_Essentials-DC143C?&style=for-the-badge&logo=EC-Council&logoColor=white" />
 <img src="https://img.shields.io/badge/-IT_Fundamentals_of_Cybersecurity-007ACC?&style=for-the-badge&logo=Coursera&logoColor=white" />
 <img src="https://img.shields.io/badge/-Penetration_Testing_with_Kali_Linux-0F172A?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
